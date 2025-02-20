@@ -28,3 +28,15 @@
     numbers.pop();
     numbers.unshift(5, 10);
     console.log(numbers);
+
+    let attendees = ["Cassandra", "Tiffany", "Dionell", "Michelle"];
+
+    attendess.push("Lexius Waltar");
+
+    attendees.pop();
+
+    console.log("attendees:");
+    for (let i = 0; i <attendees.length; i++)
+    console.log(attendees[i]);
+
+    
