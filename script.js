@@ -31,7 +31,7 @@
 
     let attendees = ["Cassandra", "Tiffany", "Dionell", "Michelle"];
 
-    attendess.push("Lexius Waltar");
+    attendees.push("Lexius Waltar");
 
     attendees.pop();
 
